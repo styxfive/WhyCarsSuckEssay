@@ -1,5 +1,4 @@
 ```
-
 References
 
 American Lung Association. (2024, October 21). Volatile organic compounds. https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants/volatile-organic-compounds
@@ -139,8 +138,8 @@ Zuhara, S., & Isaifan, R. (2018). The impact of criteria air pollutants on soil 
 
 Image Sources
 
-Image 1  - BY: Martin Vorel, CC0, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Urban_Smog_Caused_By_Cars_%281%29.jpg
-Image 2  - BY: Environmental Protection Agency, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:PM_and_a_human_hair.jpg
+Image 1 - BY: Martin Vorel, CC0, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Urban_Smog_Caused_By_Cars_%281%29.jpg
+Image 2 - BY: Environmental Protection Agency, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:PM_and_a_human_hair.jpg
 Image 3 - BY: Ai2ar, DreamWorks Animation (Megamind): URL: https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Ft64r0ojslhv81.png
 Image 4 - BY: L1CENSET0K1LL, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:US_Highway_83_in_McAllen,_Texas.jpg
 Image 5 - BY: Nyttend, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Cranberry_Mall_parking_lots_and_buildings.jpg
@@ -148,19 +147,19 @@ Image 6 - BY: Pseudopanax at English Wikipedia, Public domain, via Wikimedia Com
 Image 7 - BY: TylerMascola, CC0, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Apartment_Complex_Parking_Lot_1.png
 Image 8 - BY: Alfred Twu, CC0, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Los-Angeles-Airport-Lincoln-Boulevard-Aerial-view-from-north-August-2014.jpg
 Image 9 - BY: Melancholia i at en.wikipedia, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Bangsar.JPG
-Image 10- BY: Cornelius M. Keyes, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:The_View_of_Phoenix%27s_Urban_Sprawl_from_4000_Ft._South_Mountain_in_Background_,_6_1972.jpg
-Image 11- BY: Dr. Igor Smolyar, NODC, NOAA, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:1990s_-_A_street_scene_in_Petropavlovsk-Kamchatsky.jpg
-Image 12- BY: Methem (Mikko J. Putkonen), Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Metal_scrap_in_Rusko,_Oulu_2008.jpg
-Image 13- BY: Bruce McAllister, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:AUTO_JUNKYARD,_WHERE_CARS_ARE_SHREDDED_AND_COMPACTED_-_NARA_-_544819.jpg
-Image 14- BY: National Archives at College Park, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Italy._In_the_automotive_industry,_new_machinery_and_equipment_has_been_approved_for_five_projects_in_France,_Italy..._-_NARA_-_541734.tif
-Image 15- BY:  McWooky, FalseKnees(Original), URL: https://www.reddit.com/r/MemeRestoration/comments/e16sce/false_knees_annoyed_bird_template_hd_4k_4446x4466/
+Image 10 - BY: Cornelius M. Keyes, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:The_View_of_Phoenix%27s_Urban_Sprawl_from_4000_Ft._South_Mountain_in_Background_,_6_1972.jpg
+Image 11 - BY: Dr. Igor Smolyar, NODC, NOAA, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:1990s_-_A_street_scene_in_Petropavlovsk-Kamchatsky.jpg
+Image 12 - BY: Methem (Mikko J. Putkonen), Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Metal_scrap_in_Rusko,_Oulu_2008.jpg
+Image 13 - BY: Bruce McAllister, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:AUTO_JUNKYARD,_WHERE_CARS_ARE_SHREDDED_AND_COMPACTED_-_NARA_-_544819.jpg
+Image 14 - BY: National Archives at College Park, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Italy._In_the_automotive_industry,_new_machinery_and_equipment_has_been_approved_for_five_projects_in_France,_Italy..._-_NARA_-_541734.tif
+Image 15 - BY:  McWooky, FalseKnees(Original), URL: https://www.reddit.com/r/MemeRestoration/comments/e16sce/false_knees_annoyed_bird_template_hd_4k_4446x4466/
 Image 16 - BY: Benjamin Eenhoorn, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Gridlock_perth.jpg
 Image 17 - BY: National Archives at College Park, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:EXPRESSWAYS_OF_DALLAS_-_NARA_-_547765.jpg
 Image 18 - BY: Max Dupain, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Max_Dupain_-_Adelaide_-_Google_Art_Project.jpg
-Image 19- BY: W.carter, CC0, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Parking_lot_at_Norra_%C3%84lvsborgs_L%C3%A4nssjukhus_(N%C3%84L)_2.jpg
+Image 19 - BY: W.carter, CC0, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Parking_lot_at_Norra_%C3%84lvsborgs_L%C3%A4nssjukhus_(N%C3%84L)_2.jpg
 Image 20 - BY: Steffen, W., et al., CC0, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Estimates_of_how_the_different_control_variables_for_seven_of_nine_planetary_boundaries_have_changed_from_1950_to_present.png
-Image 21- BY: j4p4n, CC0, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Warning_Environmental_Pollution.svg
-Image 22- BY: PheobeLongneck, CC0, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Dirty_car_tires.jpg
+Image 21 - BY: j4p4n, CC0, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Warning_Environmental_Pollution.svg
+Image 22 - BY: PheobeLongneck, CC0, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Dirty_car_tires.jpg
 Image 23 - BY: Juliancolton, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Dirt_road_in_winter.JPG
 Image 24 - BY: English:  NPS Photo, Public domain, via Wikimedia Commons, URL: https://commons.wikimedia.org/wiki/File:Large_Wildlife_on_Road_(ab2f4028-3e21-4a56-96c8-96ad3f56cf85).JPG
 
